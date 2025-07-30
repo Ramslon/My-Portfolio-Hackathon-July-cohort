@@ -87,5 +87,14 @@ They include;<br>
 
  ---
 
+ ## 📊 GitHub Stats & Badges
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ramslon&show_icons=true&locale=en" alt="Ramson's GitHub stats" />
+</p>
+
+---
+
+
+
 <p aligh="center">&copy; 2025 Ramson Lunayo. All rights reserved.</p>
    
