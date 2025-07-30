@@ -10,7 +10,9 @@ p{
   font-size: medium;
   font-family: 'Times New Roman', Times, serif;
 }
-
+table,th,tr,td{
+  border:1px solid black;
+}
 
 
 profile-container {
